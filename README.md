@@ -1,7 +1,8 @@
 todo:
 
 dockerize and use postgres in separate container
+
 add custom user model
 
 upload to heroku
-add comments
+add comments to a post
